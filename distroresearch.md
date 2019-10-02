@@ -1,0 +1,2 @@
+Jessie Lite
+dietpi
